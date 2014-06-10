@@ -13,6 +13,7 @@ public class PersionService {
 	}
 	
 	public void info(){
+		
 		System.out.println("name:"+name);
 	}
 
